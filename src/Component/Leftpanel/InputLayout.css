@@ -1,0 +1,23 @@
+.float-right {
+    float: right;
+    margin-bottom: 10px;
+    width: 120px;
+  }
+  #usr {
+    width: 400px;
+    border-color: black;
+  }
+  #pwd {
+    width: 500px;
+    border-color: black;
+  }
+  #sel1 {
+    width: 400px;
+    border-color: black;
+  }
+  #datePick {
+    width: 45px;
+  }
+  #datePickText {
+    width: 450px;
+  }

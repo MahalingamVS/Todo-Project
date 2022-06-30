@@ -1,0 +1,39 @@
+.list-group {
+    max-height: 400px;
+    margin-bottom: 10px;
+    overflow: auto;
+  }
+  .md {
+    text-align: right;
+    padding: 10px;
+  }
+  .check {
+    margin-right: 25px;
+    padding: 6px;
+    width: 30px;
+    height: 30px;
+    -webkit-transform: scale(3);
+  }
+  .btnn {
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+  }
+  
+  .card-header {
+    background-color: white !important;
+    border-bottom: none !important;
+  }
+  
+  #sel2 {
+    width: 140px;
+    border-color: black;
+  }
+  
+  .dateFont {
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .dp{
+      margin-left: 400px;
+  }
